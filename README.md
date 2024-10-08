@@ -13,3 +13,7 @@ Este proyecto es para la materia de Ingeniería de Software 2, la cual estamos d
 
 - [@AlexanderA29](https://www.github.com/AlexanderA29)
 
+
+## https://readme.so/es
+Para crear el readme de forma sencilla.
+
