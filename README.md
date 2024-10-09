@@ -12,6 +12,8 @@ Este proyecto es para la materia de Ingeniería de Software 2, la cual estamos d
 ## Autores
 
 - [@AlexanderA29](https://www.github.com/AlexanderA29)
+- [@Ho5hid1ger](https://www.github.com/Ho5hid1ger)
+- [@JasonArenales](https://www.github.com/JasonArenales)
 
 
 ## https://readme.so/es
@@ -22,11 +24,6 @@ Para crear el readme de forma sencilla.
 
 This is the repository for the IS2 project.
 
-## Team Members
-
-- Jason Arenales
-- Zairy Rodriguez 
-- Alexander Arjona
 
 ## Objective
 
