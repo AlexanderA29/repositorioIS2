@@ -17,3 +17,18 @@ Este proyecto es para la materia de Ingeniería de Software 2, la cual estamos d
 ## https://readme.so/es
 Para crear el readme de forma sencilla.
 
+
+# Project Title
+
+This is the repository for the IS2 project.
+
+## Team Members
+
+- Jason Arenales
+- Zairy Rodriguez 
+- Alexander Arjona
+
+## Objective
+
+The objective of this project is to demonstrate how to use Git and GitHub.
+
