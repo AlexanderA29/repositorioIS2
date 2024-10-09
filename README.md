@@ -5,7 +5,7 @@
 
 # Proyecto de Ingeniería de Software 2
 
-Este proyecto es para la materia de Ingeniería de Software 2, la cual estamos cursando actualmente y aquí trabajaremos en el desarrollo del mismo.
+Este proyecto corresponde a la materia de Ingeniería de Software 2, la cual estamos cursando actualmente y aquí trabajaremos en su desarrollo.
 
 
 
