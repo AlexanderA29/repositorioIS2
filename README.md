@@ -24,7 +24,12 @@ Para crear el readme de forma sencilla.
 
 This is the repository for the IS2 project.
 
+## Team Members
 
+- Jason Arenales
+- Zairy Rodriguez 
+- Alexander Arjona
+  
 ## Objective
 
 The objective of this project is to demonstrate how to use Git and GitHub.
