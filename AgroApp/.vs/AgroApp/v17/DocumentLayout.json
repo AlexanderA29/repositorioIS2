@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\2024\\SEM II\\Ing. Soft. 2\\AgroApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDD5C9B-E362-4752-B51E-A980CD178126}|AgroApp\\AgroApp.pyproj|C:\\Users\\alexa\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\2024\\SEM II\\Ing. Soft. 2\\AgroApp\\AgroApp\\AgroApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CDD5C9B-E362-4752-B51E-A980CD178126}|AgroApp\\AgroApp.pyproj|solutionrelative:AgroApp\\AgroApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgroApp.py",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\2024\\SEM II\\Ing. Soft. 2\\AgroApp\\AgroApp\\AgroApp.py",
+              "RelativeDocumentMoniker": "AgroApp\\AgroApp.py",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\2024\\SEM II\\Ing. Soft. 2\\AgroApp\\AgroApp\\AgroApp.py",
+              "RelativeToolTip": "AgroApp\\AgroApp.py",
+              "ViewState": "AQIAABYBAAAAAAAAAAAAACABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-19T21:03:10.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
